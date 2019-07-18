@@ -1,0 +1,13 @@
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\bin\Debug\netstandard2.0\ScrollViewTaskNew.deps.json
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\bin\Debug\netstandard2.0\ScrollViewTaskNew.dll
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\bin\Debug\netstandard2.0\ScrollViewTaskNew.pdb
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\obj\Debug\netstandard2.0\SubHorizontalScrollView.xaml.g.cs
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\obj\Debug\netstandard2.0\ScrollViewTaskNew.csproj.CoreCompileInputs.cache
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\obj\Debug\netstandard2.0\ScrollViewTaskNew.AssemblyInfoInputs.cache
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\obj\Debug\netstandard2.0\ScrollViewTaskNew.AssemblyInfo.cs
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\obj\Debug\netstandard2.0\ScrollViewTaskNew.dll
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\obj\Debug\netstandard2.0\ScrollViewTaskNew.pdb
+C:\Users\ivanzkchou\source\repos\ScrollViewTaskNew\ScrollViewTaskNew\obj\Debug\netstandard2.0\ScrollViewTaskNew.csprojAssemblyReference.cache
